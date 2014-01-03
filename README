@@ -1,0 +1,4 @@
+crp.c -> Chinese Restaurant Process.
+irv.cpp -> Instant Runoff Voting. #not related to topic models
+purn.cpp -> a simple C program to simualte polya's urn
+stick.cpp -> a simple C program to simulate stick breaking process to generate dirichlet distribution.
