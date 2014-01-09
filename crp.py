@@ -24,4 +24,4 @@ def chinese_restaurant_process(num_customers, alpha):
 
 if __name__ == "__main__":
 	print("Simulating chinese restaurant process")
-	print(chinese_restaurant_process(10,5))
+	print(chinese_restaurant_process(10,1))

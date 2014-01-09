@@ -4,7 +4,6 @@
 #	About this file: In this script we are tokenizing the documents and observing the top words in the complete set of documents.
 #
 
-
 import nltk
 import os
 import operator
@@ -39,7 +38,7 @@ def tokenize(STOPWORDS):
 						tf[token]=0
 			print file+' : '+str(len(tf))
 	sorted_tf=sorted(tf.iteritems(), key=operator.itemgetter(1), reverse=True)
-	for i in range(0,10):
+	for i in range(0,15):
 		print(sorted_tf[i])
 
 if __name__ == "__main__":
