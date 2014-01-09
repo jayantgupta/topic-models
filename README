@@ -4,16 +4,16 @@ purn.cpp -> A simple C program to simualte polya's urn
 stick.cpp -> A simple C program to simulate stick breaking process to generate dirichlet distribution.
 gibbs3.py -> A simple python script where I have simuated some basic Gibbs sampling methods.
 parliament_labels.py -> A simple python script where the uni-ngram analysis is done of the parliament documents from 1947-1949
-			Top 12 words in the complete documents are:
-			1.(word, #tokens)
-			2.('amendment', 17222)
-			3.('article', 14404)
-			4.('president', 13736)
-			5.('sir', 12734)
-			6.('constitution', 11815)
-			7.('house', 10907)
-			8.('clause', 8597)
-			9.('india', 8154)
-			10.('state', 7690)
-			11.('government', 7191)
-			12.('people', 7089)
+			Top 11 words in the complete documents are:
+			(word, #tokens)
+			1.('amendment', 17222)
+			2.('article', 14404)
+			3.('president', 13736)
+			4.('sir', 12734)
+			5.('constitution', 11815)
+			6.('house', 10907)
+			7.('clause', 8597)
+			8.('india', 8154)
+			9.('state', 7690)
+			10.('government', 7191)
+			11.('people', 7089)
